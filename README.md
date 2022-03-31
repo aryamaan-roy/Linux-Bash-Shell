@@ -11,9 +11,9 @@ or any user-defined executable
 
 - cd : The cd command is used to change the current working directory, navigate to root directory or show current directory path
 Usage :
-<Name@UBUNTU:~>cd .. : Displays absolute path of current directory from root
-<Name@UBUNTU:~>cd ../ : Navigates to the parent directory
-<Name@UBUNTU:~>cd abc/xyz : Navigates to directory root/abc/xyz
+<Name@UBUNTU:\~>cd .. : Displays absolute path of current directory from root
+<Name@UBUNTU:\~>cd ../ : Navigates to the parent directory
+<Name@UBUNTU:\~>cd abc/xyz : Navigates to directory root/abc/xyz
 - ls : ls command is used to view all files and directories. Flags -a and -l are also implemented.
 Usage :
 Any of the following versions of the command shall work :
