@@ -36,16 +36,16 @@ Any command that begins with "&" is considered a background command. This means 
 that process instead of waiting for it to exit. It will continue to accept user commands. Whenever a new background is available,
 PID of the newly formed background process is printed on my shell after it has started.<br>
 Usage:<br>
-<Name@UBUNTU:~> gedit &<br>
+<Name@UBUNTU:\~> gedit &<br>
 456<br>
-<Name@UBUNTU:~> ls -l -a<br>
+<Name@UBUNTU:\~> ls -l -a<br>
 .<br>
 .<br>
 Execute other commands<br>
 - pinfo Command :<br>
 This prints the process-related info of your shell program<br>
 Usage :<br>
-<Name@UBUNTU:~>pinfo<br>
+<Name@UBUNTU:\~>pinfo<br>
 pid -- 231<br>
 Process Status -- {R/S/S+/Z}<br>
 memory -- 67854 {Virtual Memory}<br>
