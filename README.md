@@ -2,10 +2,7 @@
 
 ## Working:
 
-- Using priciples of a Linux Bash Shell in the Linux Operating system,
-the User-defined interactive shell program can create and manage new processes.
-The shell is able to create a process out of a system program like emacs, vi,
-or any user-defined executable
+<img width="458" alt="image" src="https://github.com/aryamaan-roy/Linux-Bash-Shell/assets/67855588/813a1dd0-ba6d-4722-91cc-76eaedd3e42b">
 
 ## Features :
 
