@@ -9,6 +9,9 @@ or any user-defined executable
 
 ## Features :
 
+<img width="473" alt="image" src="https://github.com/aryamaan-roy/Linux-Bash-Shell/assets/67855588/9e72f6ed-8bc1-45f6-80df-6f73d1d4c680">
+
+
 - cd :<br> The cd command is used to change the current working directory, navigate to root directory or show current directory path<br>
 Usage :<br>
 <Name@UBUNTU:\~>cd .. : Displays absolute path of current directory from root<br>
